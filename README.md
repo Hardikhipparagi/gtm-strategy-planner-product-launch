@@ -1,5 +1,7 @@
 # Go-To-Market Strategy Planner for New Product Launch
 
+![GTM Executive Dashboard](assets/gtm-executive-dashboard.png)
+
 ## Overview
 A non-coding Excel/Power BI-ready Product Management project for the hypothetical **FlowPilot AI** AI productivity SaaS.
 
