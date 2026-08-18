@@ -2,11 +2,52 @@
 
 ![GTM Executive Dashboard](assets/gtm-executive-dashboard.png)
 
-## Overview
-A non-coding Excel/Power BI-ready Product Management project for the hypothetical **FlowPilot AI** AI productivity SaaS.
+## 📌 Project Overview
 
-**Data note:** the 100 records and numerical assumptions are synthetic portfolio data.
+This project demonstrates a complete Go-To-Market (GTM) strategy for launching **FlowPilot AI**, a hypothetical AI productivity SaaS product.
 
+The project connects the complete product launch lifecycle:
+
+**Market Research → Customer Segmentation → Positioning → Pricing → Channel Strategy → Acquisition → Conversion → Revenue Forecasting → Launch Readiness → Growth**
+
+### 🎯 Business Objective
+
+Develop a practical GTM strategy for an AI productivity product targeting **SMB and mid-market operations teams**.
+
+### 📊 Key Deliverables
+
+- Market sizing and opportunity analysis
+- Customer segmentation
+- Customer personas
+- Competitor benchmarking
+- Positioning and value proposition
+- Pricing strategy
+- Marketing channel strategy
+- GTM funnel and KPI framework
+- Revenue scenario modelling
+- Launch readiness assessment
+- GTM risk matrix
+- 30-60-90 day launch roadmap
+- Executive dashboard
+
+## 🧰 Tools Used
+
+- Microsoft Excel
+- Power BI-ready dataset
+- PowerPoint
+- Microsoft Word
+- GitHub
+- Product Management frameworks
+- GTM analytics and scenario modelling
+
+## 📈 Key Outcomes
+
+- Overall launch readiness: **78/100**
+- Base-case annual revenue scenario: **$14.88M**
+- Primary target: **SMB and mid-market operations teams**
+- Recommended pricing approach: **Value-based subscription + limited trial**
+- Priority channels: **LinkedIn, webinars, partnerships and high-intent search**  
+  
 ## GTM Decisions
 - Target: SMB and mid-market operations teams
 - TAM / SAM / SOM: $2.4B / $480M / $24M (illustrative assumptions)
